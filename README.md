@@ -4,7 +4,7 @@ Este é um projeto simples para fins de aprendizado realizado durante as aulas n
 ## Descrição
 
 O jogo possui 16 quadradinhos com 8 imagens distribuídas aleatoriamente. O jogador deve clicar nos quadradinhos para revelar as imagens e encontrar os pares correspondentes. O cronômetro começa quando o jogo inicia e para quando o último par é encontrado.
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - **Iniciar o Jogo:** Inicia o jogo ao clicar em "Iniciar".
 - **Cronômetro:** Conta o tempo até o final do jogo.
@@ -19,9 +19,13 @@ O jogo possui 16 quadradinhos com 8 imagens distribuídas aleatoriamente. O joga
 3. Encontre os pares de imagens correspondentes.
 4. O jogo termina quando todos os pares forem encontrados e o cronômetro parar.
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página do jogo.
 - **CSS**: Estilização do tabuleiro e do cronômetro.
 - **JavaScript**: Lógica do jogo, controle do cronômetro e manipulação dos eventos dos quadradinhos.
+
+---
+
+✨ *Projeto desenvolvido para fins acadêmicos.*
 
